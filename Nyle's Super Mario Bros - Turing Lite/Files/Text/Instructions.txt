@@ -1,0 +1,20 @@
+Welcome to Super Mario Bros Turing Lite! In this game, you will be locked in a deadly clash against the notorious King 
+Koopa, Bowser, at his villainous lair. This is the fight of your life as you go up against Bowser to fight for the 
+eradication of all humanoid turtles.  
+
+To control the Mario avatar, you will use the arrow keys to direct Mario's movement. Pressing the right arrow
+will make Mario move backwards, pressing the left arrow will make Mario move backwards, and pressing the up arrow will
+make Mario jump. Pressing the right arrow and the up arrow at the same time will make Mario jump forward, while pressing
+the left arrow and the up arrow at the same time will make Mario jump backwards. 
+
+While you may be able to move fast, Bowser is ready to give you a good fight, as he'll move across the bridge himself and 
+send obstacles your way. To win this mortal combat, you must navigate Mario through Bowser's various attacks and avoid 
+touching Bowser himself. If you touch Bowser or his weapons, you die and there is an instant game over. To defeat Bowser,
+you have to cross the bridge and jump on the axe, which will cut the chain holding the bridge up, sending Bowser 
+plummeting to a gruesome, graphic demise. If you fail to do so, Bowser will emerge victorious in this battle, and humanoid
+turtles will gain rights and bring democracy to the Mushroom Kingdom. This is unacceptable. 
+
+You'll have the chance to prove your worth against Bowser again and again, and each time, he's more and more dangerous!
+In the first level, Bowser will move around the bridge to catch you before you reach the axe. In the second level, Bowser
+will gain firepower and send fire your way to burn the mustache of Mario's face. It's not going to be easy, but it's your 
+responsibility to defeat Bowser and stamp on the rights of humanoid turtles everywhere! Good luck!    
